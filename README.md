@@ -7,8 +7,11 @@ Clusters for each of the coordinates (Cell Line, Drug) were determined and was u
 
 AWS : S3 for data storage and EC2 for code retrieval and computation
 
+# Dataset 
+“Elife-10047-supp4-v2.xls” from Naik, A. W., J. D. Kangas, D. P. Sullivan and R. F. Murphy (2016).  
+"Active machine learning driven experimentation to determine compound effects on protein patterns."
 
-#Collaborators
+# Collaborators
 -Justin Hoffman 
 -Noelle Toong
 -Tianqin Li
